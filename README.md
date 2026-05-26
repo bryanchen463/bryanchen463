@@ -65,8 +65,8 @@ I focus on shipping fast: turning ideas into working AI products, agent workflow
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bryanchen463&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Bryan's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanchen463&layout=compact&theme=tokyonight&hide_border=true" alt="Bryan's top languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryanchen463&theme=tokyonight" alt="Bryan's GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bryanchen463&theme=tokyonight" alt="Bryan's top languages" />
 
 <br />
 
