@@ -1,108 +1,102 @@
-<!-- markdownlint-disable MD032 MD033-->
-<!-- Write your README.md file. Build something amazing! This README.md template can guide you to build your project documentation, but feel free to modify it as you wish 🥰 -->
-# 🔥 **bryanchen463/bryanchen463**
+<!-- Profile README for bryanchen463 -->
 
 <div align="center">
-  <!-- Change your logo -->
-  <a href="https://github.com/bryanchen463/bryanchen463">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@bryanchen463/bryanchen463's logo">
-  </a>
-  <br>
-  <a href="https://github.com/bryanchen463/bryanchen463/issues">
-    <img src="https://img.shields.io/github/issues/bryanchen463/bryanchen463?color=0088ff&style=for-the-badge&logo=github" alt="bryanchen463/bryanchen463's issues"/>
-  </a>
-  <a href="https://github.com/bryanchen463/bryanchen463/pulls">
-    <img src="https://img.shields.io/github/issues-pr/bryanchen463/bryanchen463?color=0088ff&style=for-the-badge&logo=github"  alt="bryanchen463/bryanchen463's pull requests"/>
-  </a>
+
+# Hi, I'm Bryan Chen 👋
+
+**AI agents · automation · trading systems · developer tools**
+
+I like building practical AI systems that connect research, code, markets, and daily workflows.
+
+[![GitHub followers](https://img.shields.io/github/followers/bryanchen463?style=for-the-badge&logo=github&label=Follow)](https://github.com/bryanchen463)
+[![Profile views](https://komarev.com/ghpvc/?username=bryanchen463&style=for-the-badge&color=0e75b6)](https://github.com/bryanchen463)
+[![Blog](https://img.shields.io/badge/Blog-bryan--s--blog-ff69b4?style=for-the-badge&logo=githubpages)](https://github.com/bryanchen463/bryan-s-blog)
+
 </div>
 
 ---
 
-## 🤔 **About the project**
+## 🚀 What I'm focused on
 
-* <!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] -->
-
----
-
-## ⚡ **Installation**
-
-* <!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
+- 🤖 **AI agents & memory systems** — building agent workflows that can remember, delegate, and improve.
+- 🧰 **Developer automation** — CLI tools, coding agents, and productivity infrastructure.
+- 📈 **Crypto / market research systems** — data-driven monitors, strategy validation, and risk-aware automation.
+- 🎙️ **Voice & multimodal interfaces** — Chinese TTS/STT, assistant UX, and local-first tooling.
 
 ---
 
-## 🚀 **Usage**
+## 🧩 Featured projects
 
-* <!-- ... [SHOW HOW YOUR PROJECT IS USED] -->
-
----
-
-## 🌲 **Project tree**
-
-<!-- ... [SHOW YOUR PROJECT TREE HERE IF USEFUL] -->
-
----
-
-## 📝 **Additional notes**
-
-* <!-- ... [ADD ADDITIONAL NOTES] -->
-
----
-
-## 📸 **Screenshots**
-
-<!-- ... [SOME DESCRIPTIVE IMAGES] -->
-
----
-
-## 🍰 **Supporters and donators**
-
-<!-- Change your small logo -->
-<a href="https://github.com/bryanchen463/bryanchen463">
-  <img alt="@bryanchen463/bryanchen463's brand logo without text" align="right" src="https://i.imgur.com/3qK1sie.png" width="18%" />
-</a>
-
-
-We are currently looking for new donators to help and maintain this project! ❤️
-
-By donating, you will help the development of this project, and *you will be featured in this bryanchen463's README.md*, so everyone can see your kindness and visit your content ⭐.
-
-<a href="https://github.com/sponsors/bryanchen463"> <!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
-  <img src="https://img.shields.io/badge/Sponsor-bryanchen463/bryanchen463-blue?logo=github-sponsors&style=for-the-badge&color=red">
-</a>
-
-<!-- LINK TO YOUR DONATING PAGES HERE -->
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/bryanchen463/mempalace">mempalace</a></h3>
+      <p>The highest-scoring AI memory system ever benchmarked. Free and practical.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/bryanchen463/openclaw-skill-voice">openclaw-skill-voice</a></h3>
+      <p>OpenClaw voice assistant skill with Chinese TTS and Whisper STT.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/bryanchen463/clawd-code">clawd-code</a></h3>
+      <p>Better harness tools for Claude Code-style agent development and automation.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/bryanchen463/bryan-s-blog">bryan-s-blog</a></h3>
+      <p>Personal blog and writing space.</p>
+      <p><img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" /></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-bryanchen463 was generated from *[Josee9988/project-template](https://github.com/Josee9988/project-template)* 📚
+## 🛠️ Tech I use
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Binance](https://img.shields.io/badge/Binance-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
 
 ---
 
-## 🕵️ Extra recommendations
+## 📊 GitHub snapshot
 
-* <!-- If you recommend installing anything special, or if you recommend using X thing for the good use of your project...-->
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bryanchen463&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Bryan's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanchen463&layout=compact&theme=tokyonight&hide_border=true" alt="Bryan's top languages" />
 
-## 🎉 Was the fullstack helpful? Help us raise these numbers up
+<br />
 
-[![GitHub followers](https://img.shields.io/github/followers/bryanchen463.svg?style=social)](https://github.com/bryanchen463)
-[![GitHub stars](https://img.shields.io/github/stars/bryanchen463/bryanchen463.svg?style=social)](https://github.com/bryanchen463/bryanchen463/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/bryanchen463/bryanchen463.svg?style=social)](https://github.com/bryanchen463/bryanchen463/watchers)
-[![GitHub forks](https://img.shields.io/github/forks/bryanchen463/bryanchen463.svg?style=social)](https://github.com/bryanchen463/bryanchen463/network/members)
-<!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
-[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=github-sponsors&color=red&style=social)](https://github.com/sponsors/bryanchen463)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanchen463&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-Enjoy! 😃
+</div>
 
 ---
 
-## ⚖️📝 **License and Changelog**
+## 🌱 Current interests
 
-See the license in the '**[LICENSE](LICENSE)**' file.
+```text
+AI agent infrastructure  |  long-term memory  |  trading research
+voice assistants         |  local AI stacks    |  automation workflows
+```
 
-Watch the changes in the '**[CHANGELOG.md](CHANGELOG.md)**' file.
+<div align="center">
 
----
+**Thanks for visiting — feel free to follow or check out my projects.**
 
-_Made with a lot of ❤️❤️ by **[@bryanchen463](https://github.com/bryanchen463)**_
+</div>
