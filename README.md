@@ -4,9 +4,9 @@
 
 # Hi, I'm Bryan Chen 👋
 
-**AI agents · automation · trading systems · developer tools**
+**High-frequency builder · AI development engineer · automation-first developer**
 
-I like building practical AI systems that connect research, code, markets, and daily workflows.
+I focus on shipping fast: turning ideas into working AI products, agent workflows, and developer tools with tight iteration loops.
 
 [![GitHub followers](https://img.shields.io/github/followers/bryanchen463?style=for-the-badge&logo=github&label=Follow)](https://github.com/bryanchen463)
 [![Profile views](https://komarev.com/ghpvc/?username=bryanchen463&style=for-the-badge&color=0e75b6)](https://github.com/bryanchen463)
@@ -18,32 +18,20 @@ I like building practical AI systems that connect research, code, markets, and d
 
 ## 🚀 What I'm focused on
 
-- 🤖 **AI agents & memory systems** — building agent workflows that can remember, delegate, and improve.
-- 🧰 **Developer automation** — CLI tools, coding agents, and productivity infrastructure.
-- 📈 **Crypto / market research systems** — data-driven monitors, strategy validation, and risk-aware automation.
-- 🎙️ **Voice & multimodal interfaces** — Chinese TTS/STT, assistant UX, and local-first tooling.
+- ⚡ **High-frequency development** — rapid prototyping, short feedback loops, and production-minded iteration.
+- 🤖 **AI application engineering** — agents, memory systems, tool use, RAG, multimodal workflows, and LLM infrastructure.
+- 🧰 **Developer automation** — CLIs, coding-agent workflows, internal tools, and productivity systems.
+- 🎙️ **Voice & multimodal interfaces** — Chinese TTS/STT, assistant UX, and local-first AI tooling.
 
 ---
 
-## 🧩 Featured projects
+## 🧩 Featured original projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/bryanchen463/mempalace">mempalace</a></h3>
-      <p>The highest-scoring AI memory system ever benchmarked. Free and practical.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
-    </td>
-    <td width="50%">
       <h3><a href="https://github.com/bryanchen463/openclaw-skill-voice">openclaw-skill-voice</a></h3>
       <p>OpenClaw voice assistant skill with Chinese TTS and Whisper STT.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/bryanchen463/clawd-code">clawd-code</a></h3>
-      <p>Better harness tools for Claude Code-style agent development and automation.</p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
     </td>
     <td width="50%">
@@ -66,8 +54,8 @@ I like building practical AI systems that connect research, code, markets, and d
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Binance](https://img.shields.io/badge/Binance-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
@@ -91,8 +79,8 @@ I like building practical AI systems that connect research, code, markets, and d
 ## 🌱 Current interests
 
 ```text
-AI agent infrastructure  |  long-term memory  |  trading research
-voice assistants         |  local AI stacks    |  automation workflows
+AI agent infrastructure  |  coding agents       |  long-term memory
+high-frequency shipping  |  local AI stacks     |  automation workflows
 ```
 
 <div align="center">
